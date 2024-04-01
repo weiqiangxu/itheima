@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springboot/redis-spring-boot-autoconfigure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/redis-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-admin-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-condition/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-deploy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-enable-other/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-enable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-init/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-junit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-profiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot/springboot-test/src/main/java" charset="UTF-8" />
+  </component>
+</project>

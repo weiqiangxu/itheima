@@ -6,29 +6,34 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-redis (1)" />
+        <module name="springboot-redis" />
         <module name="springboot-config" />
-        <module name="springboot-helloworld" />
         <module name="springboot-init" />
         <module name="springboot-mybatis" />
         <module name="springboot-profiles" />
-        <module name="springboot-redis" />
-        <module name="springboot-test" />
+        <module name="springboot-helloworld" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
       <module name="demo22" target="1.8" />
-      <module name="springboot-config" target="1.8" />
       <module name="springboot-config-1" target="1.8" />
       <module name="springboot-config-inner" target="1.8" />
-      <module name="springboot-helloworld" target="1.8" />
       <module name="springboot-init" target="1.8" />
       <module name="springboot-junit" target="1.8" />
-      <module name="springboot-mybatis" target="1.8" />
       <module name="springboot-profile" target="1.8" />
-      <module name="springboot-profiles" target="1.8" />
-      <module name="springboot-redis" target="1.8" />
       <module name="springboot-test" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-config" options="-parameters" />
+      <module name="springboot-helloworld" options="-parameters" />
+      <module name="springboot-mybatis" options="-parameters" />
+      <module name="springboot-profiles" options="-parameters" />
+      <module name="springboot-redis" options="-parameters" />
+      <module name="springboot-redis (1)" options="-parameters" />
+    </option>
   </component>
 </project>

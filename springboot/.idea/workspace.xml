@@ -1,77 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9878a3f2-5f4a-4a6f-a2db-996d83340f46" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/springboot-helloworld/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-init/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-profile/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-profiles/target/" />
-    <ignored path="$PROJECT_DIR$/demo/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-config-1/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-config/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-junit/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-test/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-redis/target/" />
-    <ignored path="$PROJECT_DIR$/demo22/target/" />
-    <ignored path="$PROJECT_DIR$/springboot-mybatis/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="9878a3f2-5f4a-4a6f-a2db-996d83340f46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/src/test/java/com/itheima/springbootconfig/SpringbootConfigApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/src/test/java/com/itheima/springbootconfig/SpringbootConfigApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-helloworld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-helloworld/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-helloworld/src/main/java/com/itheima/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-helloworld/src/main/java/com/itheima/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-helloworld/src/main/java/com/itheima/service/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-helloworld/src/main/java/com/itheima/service/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-helloworld/src/test/java/com/itheima/service/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-helloworld/src/test/java/com/itheima/service/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-helloworld/target/classes/com/itheima/HelloApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-helloworld/target/classes/com/itheima/HelloApplication.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1761263540">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="64" />
-          <entry key="pom" value="31" />
-          <entry key="properties" value="45" />
-          <entry key="xml" value="32" />
-          <entry key="xsd" value="3" />
-          <entry key="yaml" value="7" />
-          <entry key="yml" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="64" />
-          <entry key="Properties" value="45" />
-          <entry key="XML" value="66" />
-          <entry key="YAML" value="23" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2677" />
-          <entry key="properties" value="438" />
-          <entry key="xml" value="332" />
-          <entry key="yaml" value="33" />
-          <entry key="yml" value="1962" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2677" />
-          <entry key="Properties" value="438" />
-          <entry key="XML" value="332" />
-          <entry key="YAML" value="1995" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -163,8 +115,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -175,6 +128,9 @@
       <find>spring.version</find>
       <find>starter-web</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/springboot-mybatis/src/test/java/com/itheima/springbootmybatis/SpringbootMybatisApplicationTests.java" root0="FORCE_HIGHLIGHTING" />
@@ -242,16 +198,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="E:\develop\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="localRepository" value="$USER_HOME$/apache-maven-3.9.6/maven-repo" />
+        <option name="mavenHome" value="使用 Maven 包装器" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.9.6/conf/settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -260,11 +217,18 @@
       <select />
     </treeState>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="2dY9MejjtDRnLTwr6b16LlvDRjF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -429,32 +393,43 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568542550845" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/springboot-config/src/test/java/com/itheima/springbootconfig" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.SpringbootConfigApplicationTests.contextLoads.executor": "Run",
+    "JUnit.UserTest.Get.executor": "Run",
+    "JUnit.UserTest.GetColl.executor": "Debug",
+    "JUnit.UserTest.GetSchoolName.executor": "Debug",
+    "Maven.springboot-config [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor": "Run",
+    "Maven.springboot-helloworld [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor": "Run",
+    "Maven.springboot-helloworld [package].executor": "Run",
+    "Maven.springboot-mybatis [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor": "Run",
+    "Maven.springboot-profiles [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor": "Run",
+    "Maven.springboot-redis [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/xuweiqiang/Documents/itheima/springboot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.itheima.springbootconfig" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="aaa.demo22.mapper" />
-      <recent name="com.itheima.springboottest" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\workspace\springboot\springboot-mybatis\src\main\resources\mapper" />
       <recent name="E:\workspace\springboot\springboot-mybatis\src\main\resources" />
@@ -462,47 +437,41 @@
       <recent name="E:\workspace\springboot\springboot-redis\src\main\resources" />
       <recent name="E:\workspace\springboot" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.itheima.springbootconfig" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.itheima.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aaa.demo22.mapper" />
+      <recent name="com.itheima.springboottest" />
+    </key>
   </component>
   <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SpringbootMybatisApplicationTests.testFindAll2">
-    <configuration name="Demo22ApplicationTests.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo22" />
+  <component name="RunManager" selected="JUnit.UserTest.GetSchoolName">
+    <configuration name="SpringbootConfigApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-config" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aaa.demo22.*" />
+          <option name="PATTERN" value="com.itheima.springbootconfig.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="aaa.demo22" />
-      <option name="MAIN_CLASS_NAME" value="aaa.demo22.Demo22ApplicationTests" />
-      <option name="METHOD_NAME" value="testFindAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringbootMybatisApplicationTests.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot-mybatis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.springbootmybatis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.itheima.springbootmybatis" />
-      <option name="MAIN_CLASS_NAME" value="com.itheima.springbootmybatis.SpringbootMybatisApplicationTests" />
-      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="PACKAGE_NAME" value="com.itheima.springbootconfig" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.springbootconfig.SpringbootConfigApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -524,33 +493,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootRedisApplicationTests.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot-redis" />
+    <configuration name="UserTest.Get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-helloworld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.springbootredis.*" />
+          <option name="PATTERN" value="com.itheima.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.itheima.springbootredis" />
-      <option name="MAIN_CLASS_NAME" value="com.itheima.springbootredis.SpringbootRedisApplicationTests" />
-      <option name="METHOD_NAME" value="testGet" />
+      <option name="PACKAGE_NAME" value="com.itheima.service" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.service.UserTest" />
+      <option name="METHOD_NAME" value="Get" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootRedisApplicationTests.testSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot-redis" />
+    <configuration name="UserTest.GetColl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-helloworld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.springbootredis.*" />
+          <option name="PATTERN" value="com.itheima.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.itheima.springbootredis" />
-      <option name="MAIN_CLASS_NAME" value="com.itheima.springbootredis.SpringbootRedisApplicationTests" />
-      <option name="METHOD_NAME" value="testSet" />
+      <option name="PACKAGE_NAME" value="com.itheima.service" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.service.UserTest" />
+      <option name="METHOD_NAME" value="GetColl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.GetSchoolName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.service" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.service.UserTest" />
+      <option name="METHOD_NAME" value="GetSchoolName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -566,6 +551,13 @@
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.HelloApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -607,18 +599,16 @@
     </configuration>
     <configuration name="SpringbootProfileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-profile" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.springbootprofile.SpringbootProfileApplication" />
       <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=pro" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.springbootprofile.SpringbootProfileApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SpringbootProfilesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-profiles" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.springbootprofiles.SpringbootProfilesApplication" />
       <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=pro" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.springbootprofiles.SpringbootProfilesApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -631,13 +621,19 @@
       </method>
     </configuration>
     <configuration name="SpringbootTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="springboot-test" />
+      <module name="springboot-redis (1)" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.springboottest.SpringbootTestApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.UserTest.GetSchoolName" />
+      <item itemvalue="JUnit.UserTest.Get" />
+      <item itemvalue="JUnit.UserTest.GetColl" />
+      <item itemvalue="JUnit.SpringbootConfigApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.SpringbootMybatisApplicationTests.testFindAll2" />
+      <item itemvalue="Spring Boot.HelloApplication" />
       <item itemvalue="Spring Boot.SpringbootInitApplication" />
       <item itemvalue="Spring Boot.SpringbootProfileApplication" />
       <item itemvalue="Spring Boot.SpringbootProfilesApplication" />
@@ -648,23 +644,27 @@
       <item itemvalue="Spring Boot.SpringbootTestApplication" />
       <item itemvalue="Spring Boot.SpringbootRedisApplication" />
       <item itemvalue="Spring Boot.Demo22Application" />
-      <item itemvalue="JUnit.SpringbootRedisApplicationTests.testSet" />
-      <item itemvalue="JUnit.SpringbootRedisApplicationTests.testGet" />
-      <item itemvalue="JUnit.Demo22ApplicationTests.testFindAll" />
       <item itemvalue="Spring Boot.SpringbootMybatisApplication" />
-      <item itemvalue="JUnit.SpringbootMybatisApplicationTests.testFindAll" />
-      <item itemvalue="JUnit.SpringbootMybatisApplicationTests.testFindAll2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserTest.GetSchoolName" />
+        <item itemvalue="JUnit.UserTest.GetColl" />
+        <item itemvalue="JUnit.UserTest.Get" />
+        <item itemvalue="JUnit.SpringbootConfigApplicationTests.contextLoads" />
         <item itemvalue="JUnit.SpringbootMybatisApplicationTests.testFindAll2" />
-        <item itemvalue="JUnit.SpringbootMybatisApplicationTests.testFindAll" />
-        <item itemvalue="JUnit.Demo22ApplicationTests.testFindAll" />
-        <item itemvalue="JUnit.SpringbootRedisApplicationTests.testGet" />
-        <item itemvalue="JUnit.SpringbootRedisApplicationTests.testSet" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-995e55e7" />
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-68fdadd5" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -682,6 +682,15 @@
       <workItem from="1568284219914" duration="3549000" />
       <workItem from="1568527453483" duration="6075000" />
       <workItem from="1568539762024" duration="2740000" />
+      <workItem from="1710174100723" duration="316000" />
+      <workItem from="1710208773169" duration="9000" />
+      <workItem from="1710222150631" duration="1079000" />
+      <workItem from="1710228600839" duration="800000" />
+      <workItem from="1710244480199" duration="1982000" />
+      <workItem from="1710294577947" duration="1915000" />
+      <workItem from="1710299696165" duration="49000" />
+      <workItem from="1710300475595" duration="115000" />
+      <workItem from="1710675310130" duration="1127000" />
     </task>
     <servers />
   </component>
@@ -759,10 +768,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/springboot-profiles/src/main/resources/application-test.properties">

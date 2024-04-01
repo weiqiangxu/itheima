@@ -11,6 +11,7 @@ public class SpringbootConfigApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("hello");
     }
 
 }
